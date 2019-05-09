@@ -1,0 +1,988 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 42px;
+    margin-top: 32px;
+    width: 291px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 254px;
+    height: 38px;
+    align-items: center
+  }
+  .style1 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    margin-left: 0;
+    height: 27px
+  }
+  .style2 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 182px;
+    width: 38px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style3 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    height: 27px
+  }
+  .style4 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 42px;
+    margin-top: 20px;
+    width: 291px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container1row0 {
+    display: flex;
+    width: 254px;
+    height: 38px;
+    align-items: center
+  }
+  .style5 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    margin-left: 0;
+    height: 27px
+  }
+  .style6 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 182px;
+    width: 38px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style7 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    height: 27px
+  }
+  .style8 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 42px;
+    margin-top: 20px;
+    width: 291px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container2row0 {
+    display: flex;
+    width: 254px;
+    height: 38px;
+    align-items: center
+  }
+  .style9 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    margin-left: 0;
+    height: 27px
+  }
+  .style10 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 182px;
+    width: 38px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style11 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    height: 27px
+  }
+  .style12 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 42px;
+    margin-top: 20px;
+    width: 291px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 254px;
+    height: 38px;
+    align-items: center
+  }
+  .style13 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    margin-left: 0;
+    height: 27px
+  }
+  .style14 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 182px;
+    width: 38px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style15 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    height: 27px
+  }
+  .style16 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 42px;
+    margin-top: 20px;
+    width: 291px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container4row0 {
+    display: flex;
+    width: 254px;
+    height: 38px;
+    align-items: center
+  }
+  .style17 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    margin-left: 0;
+    height: 27px
+  }
+  .style18 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 182px;
+    width: 38px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style19 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 1.125em;
+    height: 27px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 86px;
+    margin-top: 66px;
+    width: 596px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 520px;
+    height: 78px;
+    align-items: center
+  }
+  .style1 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    margin-left: 0;
+    height: 55px
+  }
+  .style2 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 373px;
+    width: 78px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style3 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    height: 55px
+  }
+  .style4 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 86px;
+    margin-top: 41px;
+    width: 596px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container1row0 {
+    display: flex;
+    width: 520px;
+    height: 78px;
+    align-items: center
+  }
+  .style5 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    margin-left: 0;
+    height: 55px
+  }
+  .style6 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 373px;
+    width: 78px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style7 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    height: 55px
+  }
+  .style8 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 86px;
+    margin-top: 41px;
+    width: 596px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container2row0 {
+    display: flex;
+    width: 520px;
+    height: 78px;
+    align-items: center
+  }
+  .style9 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    margin-left: 0;
+    height: 55px
+  }
+  .style10 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 373px;
+    width: 78px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style11 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    height: 55px
+  }
+  .style12 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 86px;
+    margin-top: 41px;
+    width: 596px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 520px;
+    height: 78px;
+    align-items: center
+  }
+  .style13 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    margin-left: 0;
+    height: 55px
+  }
+  .style14 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 373px;
+    width: 78px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style15 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    height: 55px
+  }
+  .style16 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 86px;
+    margin-top: 41px;
+    width: 596px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container4row0 {
+    display: flex;
+    width: 520px;
+    height: 78px;
+    align-items: center
+  }
+  .style17 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    margin-left: 0;
+    height: 55px
+  }
+  .style18 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 373px;
+    width: 78px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style19 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.3040000000000003em;
+    height: 55px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 103px;
+    margin-top: 79px;
+    width: 714px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 623px;
+    height: 93px;
+    align-items: center
+  }
+  .style1 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    margin-left: 0;
+    height: 66px
+  }
+  .style2 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 447px;
+    width: 93px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style3 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    height: 66px
+  }
+  .style4 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 103px;
+    margin-top: 49px;
+    width: 714px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container1row0 {
+    display: flex;
+    width: 623px;
+    height: 93px;
+    align-items: center
+  }
+  .style5 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    margin-left: 0;
+    height: 66px
+  }
+  .style6 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 447px;
+    width: 93px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style7 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    height: 66px
+  }
+  .style8 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 103px;
+    margin-top: 49px;
+    width: 714px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container2row0 {
+    display: flex;
+    width: 623px;
+    height: 93px;
+    align-items: center
+  }
+  .style9 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    margin-left: 0;
+    height: 66px
+  }
+  .style10 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 447px;
+    width: 93px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style11 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    height: 66px
+  }
+  .style12 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 103px;
+    margin-top: 49px;
+    width: 714px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 623px;
+    height: 93px;
+    align-items: center
+  }
+  .style13 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    margin-left: 0;
+    height: 66px
+  }
+  .style14 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 447px;
+    width: 93px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style15 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    height: 66px
+  }
+  .style16 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 103px;
+    margin-top: 49px;
+    width: 714px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container4row0 {
+    display: flex;
+    width: 623px;
+    height: 93px;
+    align-items: center
+  }
+  .style17 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    margin-left: 0;
+    height: 66px
+  }
+  .style18 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 447px;
+    width: 93px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style19 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 2.76em;
+    height: 66px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 134px;
+    margin-top: 102px;
+    width: 931px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 813px;
+    height: 122px;
+    align-items: center
+  }
+  .style1 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    margin-left: 0;
+    height: 86px
+  }
+  .style2 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 582px;
+    width: 122px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style3 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    height: 86px
+  }
+  .style4 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 134px;
+    margin-top: 64px;
+    width: 931px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container1row0 {
+    display: flex;
+    width: 813px;
+    height: 122px;
+    align-items: center
+  }
+  .style5 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    margin-left: 0;
+    height: 86px
+  }
+  .style6 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 582px;
+    width: 122px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style7 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    height: 86px
+  }
+  .style8 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 134px;
+    margin-top: 64px;
+    width: 931px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container2row0 {
+    display: flex;
+    width: 813px;
+    height: 122px;
+    align-items: center
+  }
+  .style9 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    margin-left: 0;
+    height: 86px
+  }
+  .style10 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 582px;
+    width: 122px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style11 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    height: 86px
+  }
+  .style12 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 134px;
+    margin-top: 64px;
+    width: 931px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 813px;
+    height: 122px;
+    align-items: center
+  }
+  .style13 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    margin-left: 0;
+    height: 86px
+  }
+  .style14 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 582px;
+    width: 122px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style15 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    height: 86px
+  }
+  .style16 {
+    background-color: #db0000;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    display: flex;
+    margin-left: 134px;
+    margin-top: 64px;
+    width: 931px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container4row0 {
+    display: flex;
+    width: 813px;
+    height: 122px;
+    align-items: center
+  }
+  .style17 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    margin-left: 0;
+    height: 86px
+  }
+  .style18 {
+    background-color: #fff;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    margin-left: 582px;
+    width: 122px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column
+  }
+  .style19 {
+    color: #707070;
+    font-family: segoeui,serif;
+    font-size: 3.6em;
+    height: 86px
+  }
+}
